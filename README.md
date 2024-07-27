@@ -1,3 +1,0 @@
-# bmi_calculator
-
-In progress....
