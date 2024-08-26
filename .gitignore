@@ -21,12 +21,12 @@ migrate_working_dir/
 .pub/
 /build
 /.idea
-# /android
+/android
 /.dart_tool
-# /ios
-# /linux
-# /macos
-# /web
-# /windows
+/ios
+/linux
+/macos
+/web
+/windows
 pubspec.lock
 analysis_options.yaml
