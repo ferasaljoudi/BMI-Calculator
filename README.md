@@ -28,7 +28,7 @@ This app, developed for my ENSE375 class, provides a user-friendly interface whe
 <table>
   <tr>
     <td>
-      Coming soon...
+      <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/dart.svg" alt="Dart"></a>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@ This app, developed for my ENSE375 class, provides a user-friendly interface whe
 <table>
   <tr>
     <td>
-      Coming soon...
+      <a href="https://docs.flutter.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/flutter.svg" alt="Flutter"></a>
     </td>
   </tr>
 </table>
