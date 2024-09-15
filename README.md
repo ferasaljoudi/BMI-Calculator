@@ -73,3 +73,15 @@ This app, developed for my ENSE375 class, provides a user-friendly interface whe
   </tr>
 </table>
 </div>
+
+<br>
+<div style="width: 100%;">
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/features.svg" alt="Features" style="width: 100%"></a>
+</div>
+<br>
+
+- <b>User-friendly interface:</b> Simple and intuitive design for easy height and weight input.
+- <b>Instant calculations:</b> Provides BMI results in real-time as users enter their data.
+- <b>Health range indicators:</b> Displays whether the user's BMI is underweight, normal, overweight, or obese based on standard ranges.
+- <b>Lightweight:</b> Efficient and quick performance on mobile devices.
+- <b>Responsive design:</b> Adapts to different screen sizes for seamless usage.
